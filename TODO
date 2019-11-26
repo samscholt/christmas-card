@@ -1,7 +1,7 @@
-[ ] Add each level of the tree
-[ ] Add javscript to programatically add:
-    * [ ] lights
-    * [ ] ornaments
+[X] Add each level of the tree
+[X] Add javascript to programatically add:
+    * [X] lights
+    * [X] ornaments
 [ ] Slide in elements using set timeout
 [ ] Add your own flair!
     - Change message
